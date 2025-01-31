@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [moyalab!](README.md)
 
 ## Getting Started
 
