@@ -4,7 +4,7 @@
 
 ## 비트블록::Bitblock
 
-* [명칭](getting-started/quickstart.md)
+* [명칭](bitblock/name.md)
 * [전원공급](bitblock/power.md)
 
 ## 비트블록AI::BitblockAI
