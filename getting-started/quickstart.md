@@ -1,5 +1,5 @@
 ---
-icon: clapperboard
+icon: id-card
 description: 비트블록 보드의 각 명칭을 설명합니다.
 ---
 

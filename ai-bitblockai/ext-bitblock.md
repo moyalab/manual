@@ -1,8 +1,8 @@
 ---
-icon: markdown
+icon: swatchbook
 ---
 
-# Markdown
+# 비트블록 확장
 
 GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
 
