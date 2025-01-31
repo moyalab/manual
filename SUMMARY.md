@@ -18,8 +18,10 @@
 
 ## 펌웨어업로더::firmup
 
-* [Page 1](firmup/page-1.md)
+* [다운로드](firmup/firmup_download.md)
+* [펌웨어 업로드](firmup/undefined.md)
 
 ## 파이썬::python
 
-* [Page 2](python/page-2.md)
+* [다운로드](python/python_download.md)
+* [pyblebb](python/pyblebb.md)
