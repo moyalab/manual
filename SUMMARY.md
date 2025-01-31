@@ -1,17 +1,25 @@
 # Table of contents
 
-* [moyalab!](README.md)
+* [Welcome!](README.md)
 
-## Getting Started
+## 비트블록::Bitblock
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](bitblock/quickstart.md)
+* [Publish your docs](bitblock/publish-your-docs.md)
 
-## Basics
+## 비트블록AI::BitblockAI
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor](ai-bitblockai/editor.md)
+* [Markdown](ai-bitblockai/markdown.md)
+* [Images & media](ai-bitblockai/images-and-media.md)
+* [Interactive blocks](ai-bitblockai/interactive-blocks.md)
+* [OpenAPI](ai-bitblockai/openapi.md)
+* [Integrations](ai-bitblockai/integrations.md)
+
+## 펌웨어업로더::firmup
+
+* [Page 1](firmup/page-1.md)
+
+## 파이썬::python
+
+* [Page 2](python/page-2.md)
