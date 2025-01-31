@@ -1,20 +1,20 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [완벽 가이드!](README.md)
 
 ## 비트블록::Bitblock
 
-* [Quickstart](bitblock/quickstart.md)
-* [Publish your docs](bitblock/publish-your-docs.md)
+* [명칭](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
 
 ## 비트블록AI::BitblockAI
 
-* [Editor](ai-bitblockai/editor.md)
-* [Markdown](ai-bitblockai/markdown.md)
-* [Images & media](ai-bitblockai/images-and-media.md)
-* [Interactive blocks](ai-bitblockai/interactive-blocks.md)
-* [OpenAPI](ai-bitblockai/openapi.md)
-* [Integrations](ai-bitblockai/integrations.md)
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
 
 ## 펌웨어업로더::firmup
 

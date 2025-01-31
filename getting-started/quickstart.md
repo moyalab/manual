@@ -1,15 +1,17 @@
 ---
-icon: bullseye-arrow
+description: 비트블록 보드의 각 명칭을 설명합니다.
+icon: clapperboard
 ---
 
-# Quickstart
+# 명칭
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-01-06 10 24 10.png" alt=""><figcaption><p>비트블록 보드 명칭</p></figcaption></figure>
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+1. Size : 50mm(W) x 50mm(H)
+2. Microprocessor:  ESP32-S3&#x20;
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
+마이크로비트(Microbit)와 같은 형태의 인터페이스를 가지고 있습니다.
 {% endhint %}
 
 ### Import
