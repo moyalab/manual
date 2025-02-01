@@ -9,12 +9,12 @@
 
 ## 비트블록AI::BitblockAI
 
-* [다운로드](ai-bitblockai/download.md)
+* [다운로드](ai-bitblockai/download/README.md)
+  * [Windows 버전](ai-bitblockai/download/windows.md)
+  * [Android 버전](ai-bitblockai/download/android.md)
+  * [Chrome 버전](ai-bitblockai/download/chrome.md)
 * [보드 연결](ai-bitblockai/connect.md)
 * [비트블록 확장](ai-bitblockai/ext-bitblock.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
 
 ## 펌웨어업로더::firmup
 
