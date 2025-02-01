@@ -2,7 +2,7 @@
 icon: plug
 ---
 
-# 전원공급
+# 전원 공급
 
 비트블록 보드에는 2가지 방법으로 전원을 공급할 수 있다. 두 가지 방법 중에서 한 가지 방법으로 전원을 공급하면 된다.
 
@@ -17,4 +17,6 @@ icon: plug
 
 연결대기 상태에서는 5x5 LED가 연속적으로 켜집니다.
 
-{% embed url="https://youtu.be/PGhEPOJHzvM?si=ZSvvdQOfp_ENv-d0" %}
+
+
+{% embed url="https://youtu.be/HZ6T4KWmmOk?si=QggB7IQKF3Qsf9Mz" %}

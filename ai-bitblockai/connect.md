@@ -8,9 +8,7 @@ icon: link-simple
 
 비트블록 보드에 전원이 연결되어, 대기상태를 확인한다.
 
-
-
-{% embed url="https://youtu.be/PGhEPOJHzvM?si=ZSvvdQOfp_ENv-d0" %}
+{% embed url="https://youtu.be/HZ6T4KWmmOk?si=QggB7IQKF3Qsf9Mz" %}
 
 ### 비트블록AI 실행
 
