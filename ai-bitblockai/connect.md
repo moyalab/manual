@@ -4,6 +4,16 @@ icon: link-simple
 
 # 보드 연결
 
+### 연결 대기상태
+
+비트블록 보드에 전원이 연결되어, 대기상태를 확인한다.
+
+
+
+{% embed url="https://youtu.be/PGhEPOJHzvM?si=ZSvvdQOfp_ENv-d0" %}
+
+### 비트블록AI 실행
+
 설치된 비트블록AI 프로그램을 실행하면 아래와 화면이 나타난다.
 
 <figure><img src="../.gitbook/assets/bitblockai.png" alt=""><figcaption></figcaption></figure>
