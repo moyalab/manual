@@ -8,9 +8,9 @@ icon: link-simple
 
 비트블록 보드에 전원이 연결되어, 대기상태를 확인한다.
 
-{% embed url="https://youtu.be/HZ6T4KWmmOk?si=QggB7IQKF3Qsf9Mz" %}
-블루투스 연결 대기
-{% endembed %}
+
+
+{% embed url="https://youtu.be/C0KRqKcIzsI?si=m6WyU_HhlvoDSjUS" %}
 
 ### 비트블록AI 실행
 

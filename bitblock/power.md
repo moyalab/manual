@@ -19,4 +19,4 @@ icon: plug
 
 
 
-{% embed url="https://youtu.be/HZ6T4KWmmOk?si=QggB7IQKF3Qsf9Mz" %}
+{% embed url="https://youtu.be/C0KRqKcIzsI?si=m6WyU_HhlvoDSjUS" %}
