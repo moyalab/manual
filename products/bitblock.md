@@ -8,11 +8,9 @@ icon: chalkboard-user
 
 <figure><img src="../.gitbook/assets/bb_01.jpg" alt=""><figcaption></figcaption></figure>
 
-### 제품 부품
+### 내용물
 
 <figure><img src="../.gitbook/assets/bb_02.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 1. 서보모터 (SG-90)
 2. 배터리 홀더
