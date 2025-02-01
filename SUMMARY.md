@@ -19,7 +19,7 @@
 ## 펌웨어업로더::firmup
 
 * [다운로드](firmup/firmup_download.md)
-* [펌웨어 업로드](firmup/undefined.md)
+* [펌웨어 종류](firmup/firmware.md)
 
 ## 파이썬::python
 
