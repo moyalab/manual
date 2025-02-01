@@ -10,3 +10,11 @@ icon: plug
 
 1. USB-C케이블을 PC의 USB 포트와 연결해서 사용 (출력 5V)
 2. 비트블록 보드와 함께 제공되는 배터리 케이스를 사용 (AAA 건전지 3개 사용)
+
+
+
+### 연결 대기 상태
+
+연결대기 상태에서는 5x5 LED가 연속적으로 켜집니다.
+
+{% embed url="https://youtu.be/PGhEPOJHzvM?si=ZSvvdQOfp_ENv-d0" %}
