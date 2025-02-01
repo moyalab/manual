@@ -23,5 +23,4 @@
 
 ## 파이썬::python
 
-* [다운로드](python/python_download.md)
-* [pyblebb](python/pyblebb.md)
+* [pyblebb](python/python_download.md)
