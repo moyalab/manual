@@ -2,25 +2,11 @@
 icon: swatchbook
 ---
 
-# 비트블록 확장
+# 확장 기능
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+<figure><img src="../.gitbook/assets/02_ext_02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02_ext_03.png" alt=""><figcaption></figcaption></figure>
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
+새로운 확장기능은 계속해서 개발되고 있다.&#x20;
 
-```markdown
-# Heading
-
-This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
-
-## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
-
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}

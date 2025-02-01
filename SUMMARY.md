@@ -14,7 +14,7 @@
   * [Android 버전](ai-bitblockai/download/android.md)
   * [Chrome 버전](ai-bitblockai/download/chrome.md)
 * [보드 연결](ai-bitblockai/connect.md)
-* [비트블록 확장](ai-bitblockai/ext-bitblock.md)
+* [확장 기능](ai-bitblockai/ext-bitblock.md)
 
 ## 펌웨어업로더::firmup
 
