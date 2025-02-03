@@ -46,6 +46,4 @@ for i in range(10):
 
 pyblebb 라이브러리의 사용방법은 아래 링크를 참고하세요.
 
-
-
-{% embed url="https://github.com/devdio/Bitblock_Tutorial/wiki" %}
+{% embed url="https://github.com/devdio/bitblock_tutorial/wiki/1.%EB%B9%84%ED%8A%B8%EB%B8%94%EB%A1%9D(Bitblock)" %}
