@@ -15,6 +15,8 @@ pip install pyblebb
 
 ### 샘플 코드
 
+파이썬에서 비트블록을 블루투스로 연결하기위해서는 비트블록의 MAC 주소를 알고 있어야 한다. MAC주소를 확인하는 방법은 [MAC 확인방법](mac.md)을 참고하세요.
+
 ```python
 from bitblock import *
 
