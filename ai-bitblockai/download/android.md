@@ -1,8 +1,10 @@
 # Android 버전
 
-Google Play에서 검색해서설치한다. &#x20;
+Google Play에서 검색해서 설치한다.
 
-<figure><img src="../../.gitbook/assets/play_bitblock.png" alt=""><figcaption></figcaption></figure>
+&#x20;&#x20;
+
+<figure><img src="../../.gitbook/assets/2025-02-03 16 19 36.png" alt=""><figcaption></figcaption></figure>
 
 
 
