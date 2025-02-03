@@ -3,7 +3,9 @@ icon: id-card
 description: 비트블록 보드의 각 명칭을 설명합니다.
 ---
 
-# 명칭
+# 보드 명칭
+
+<figure><img src="../.gitbook/assets/블루투스_연결대기-썸네일.jpg" alt=""><figcaption><p>비트블록 보드</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/2025-01-06 10 24 10.png" alt=""><figcaption><p>비트블록 보드 명칭</p></figcaption></figure>
 
