@@ -24,7 +24,7 @@
 ## 파이썬::python
 
 * [pyblebb](python/python_download.md)
-* [MAC 확인방법](python/mac.md)
+* [MAC 주소 확인](python/mac.md)
 
 ## 제품 설명 <a href="#products" id="products"></a>
 
