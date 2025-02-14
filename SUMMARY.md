@@ -30,3 +30,7 @@
 
 * [비트블록](products/bitblock.md)
 * [이미지](products/product_images.md)
+
+## 참고자료 <a href="#doc" id="doc"></a>
+
+* [연수 자료](doc/doc.md)
