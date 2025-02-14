@@ -1,5 +1,6 @@
 ---
 description: QR코드와 AruCo 마커를 검출하는 기능
+icon: qrcode
 ---
 
 # QR코드
