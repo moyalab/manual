@@ -1,6 +1,6 @@
 ---
-description: QR코드와 AruCo 마커를 검출하는 기능
 icon: qrcode
+description: QR코드와 AruCo 마커를 검출하는 기능
 ---
 
 # QR코드
@@ -17,6 +17,6 @@ QR 코드 생성 웹서비스는 많지만, 아래 서비스를 추천합니다.
 
 ### ArUco 마커 생성&#x20;
 
-아래 웹서비스에서 **Original ArUco** 타입을 선택해서 생성해야 합니다.
+아래 웹서비스에서 <mark style="background-color:blue;">**Original ArUco**</mark> 타입을 선택해서 생성해야 합니다.
 
 {% embed url="https://chev.me/arucogen/" %}
