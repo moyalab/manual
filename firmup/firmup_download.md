@@ -8,11 +8,17 @@ icon: arrow-down-from-bracket
 
 ### 다운로드
 
-펌웨어 업로더 프로그램을 아래   링크에서 다운로드한다.
+최신펌웨어 업로더 프로그램을 아래   링크에서 다운로드한다.
+
+#### 👽  최신버전
+
+펌웨어 3.2.4 적용 (보라색 LED)
+
+{% embed url="https://drive.google.com/file/d/1DcAhohxXz2VAkR3qzWRVeaLKgt7fkhcM/view?usp=sharing" %}
+
+#### 💧 이전 버전
 
 {% embed url="https://drive.google.com/file/d/1o1RD8knUzxArmIC7j-mk_mjLWOAbRzU4/view?usp=sharing" %}
-
-
 
 ### 펌웨어 업로드
 
@@ -24,7 +30,7 @@ icon: arrow-down-from-bracket
 
 펌웨어 업로더 프로그램을 실행한다.
 
-<figure><img src="../.gitbook/assets/firmup_02.png" alt=""><figcaption><p>펌웨어 선택</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-02-15 18 25 55.png" alt=""><figcaption></figcaption></figure>
 
 펌웨어 종류를 선택한다. \[블루투스 통신] 버튼을 선택한다.
 
@@ -40,11 +46,4 @@ icon: arrow-down-from-bracket
 
 <figure><img src="../.gitbook/assets/firmup_05.png" alt=""><figcaption><p>업로드 완료</p></figcaption></figure>
 
-업로드가 완료되면, 비트블록 보드를 리셋해서 사용한다.
-
-
-
-
-
-
-
+업로드가 완료되면, 비트블록 보드를 리셋(전원을  끊었다다시켬)해서 사용한다.
