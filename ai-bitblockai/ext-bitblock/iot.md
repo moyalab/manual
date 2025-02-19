@@ -1,5 +1,6 @@
 ---
 description: 서버를 통해서 센서값을 송수신하는 기능
+icon: sensor
 ---
 
 # IOT장치
