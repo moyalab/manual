@@ -16,6 +16,7 @@
 * [보드 연결](ai-bitblockai/connect.md)
 * [확장 기능](ai-bitblockai/ext-bitblock/README.md)
   * [QR코드](ai-bitblockai/ext-bitblock/qr.md)
+  * [이미지 학습I (AI)](ai-bitblockai/ext-bitblock/i-ai.md)
 
 ## 펌웨어업로더::firmup
 
