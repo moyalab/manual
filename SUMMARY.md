@@ -18,6 +18,7 @@
   * [QR코드](ai-bitblockai/ext-bitblock/qr.md)
   * [이미지 학습I (AI)](ai-bitblockai/ext-bitblock/i-ai.md)
   * [이미지분류(TM)](ai-bitblockai/ext-bitblock/tm.md)
+  * [IOT장치](ai-bitblockai/ext-bitblock/iot.md)
 
 ## 펌웨어업로더::firmup
 
