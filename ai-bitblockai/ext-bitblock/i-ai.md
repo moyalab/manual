@@ -1,6 +1,6 @@
 ---
-description: 티처블머신과 비슷한 화면에서 이미지 분류 모델을 학습하고 코딩하는 기능을 제공
 icon: image-landscape
+description: 티처블머신과 비슷한 화면에서 이미지 분류 모델을 학습하고 코딩하는 기능을 제공
 ---
 
 # 이미지 학습I (AI)
@@ -21,11 +21,11 @@ icon: image-landscape
 
 
 
-<figure><img src="../../.gitbook/assets/02_2025-02-19 10 41 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02_2025-02-19 10 41 01.png" alt=""><figcaption><p>모델 학습</p></figcaption></figure>
 
 ### 샘플 프로그램
 
-
+학습된 모델을 사용해서 샘플 프로그램을 만든다. 학습된 모델을 사용하기 위해서는 먼저  \[학습모델 불러오기]  블록의 실행이 필요하다.&#x20;
 
 <figure><img src="../../.gitbook/assets/03_2025-02-19 10 41 01.png" alt=""><figcaption></figcaption></figure>
 
