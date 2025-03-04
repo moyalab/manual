@@ -8,23 +8,25 @@ icon: arrow-down-from-bracket
 
 ### 다운로드
 
-최신펌웨어 업로더 프로그램을 아래   링크에서 다운로드한다.
+최신펌웨어 업로더 프로그램을 아래   링크에서 다운로드합니다.
 
-#### 👽  최신버전
+#### 🔥 최신 버전&#x20;
 
-펌웨어 3.2.4 적용 (보라색 LED)
+비트블록 보드의 Matrix LED(5x5)는 초록색입니다.
+
+{% embed url="https://drive.google.com/file/d/1PCxPolpuRhyNhN43VvgCzVT8nkM-o8Ao/view?usp=sharing" %}
+
+#### 👽  이전버전
+
+비트블록 보드의 Matrix LED(5x5)는  보라색입니다.
 
 {% embed url="https://drive.google.com/file/d/1DcAhohxXz2VAkR3qzWRVeaLKgt7fkhcM/view?usp=sharing" %}
-
-#### 💧 이전 버전
-
-{% embed url="https://drive.google.com/file/d/1o1RD8knUzxArmIC7j-mk_mjLWOAbRzU4/view?usp=sharing" %}
 
 ### 펌웨어 업로드
 
 <figure><img src="../.gitbook/assets/firmup_01.png" alt=""><figcaption><p>보드 뒷면</p></figcaption></figure>
 
-펌웨어 업로드를 위해서는 **업로드 모드**를 선택해야 한다. 업로드 모드는 보드에 전원을 연결한 상태에서, 보드 뒷면의 **부트 버튼을 누른 상태에서 리셋 버튼을 누른다**. 업로드 모드 에서는 보드 앞면의 Display(5x5 LED)가 동작을 멈춘다. 이 상태가 업로드 모드이다.
+펌웨어 업로드를 위해서는 비트블록보드를 **업로드 모드**를선택로해야 한다. 업로드 모드는 보드에 전원을 연결한 상태에서, 보드 뒷면의 **부트 버튼을 누른 상태에서 리셋 버튼을 누른다**. 업로드 모드 에서는 보드 앞면의 Display(5x5 LED)가 동작을 멈춘다. 이 상태가 업로드 모드이다.
 
 
 
