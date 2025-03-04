@@ -56,4 +56,6 @@ icon: arrow-down-from-bracket
 
 <figure><img src="../.gitbook/assets/firmup_05.png" alt=""><figcaption><p>업로드 완료</p></figcaption></figure>
 
+#### 3. 보드를 리셋하고 사용
+
 업로드가 완료되면, 비트블록 보드를 리셋(전원을  끊었다  다시 켬)해서 사용한다.
