@@ -12,8 +12,6 @@ icon: arrow-down-from-bracket
 
 #### 🔥 최신 버전&#x20;
 
-비트블록 보드의 Matrix LED(5x5)는 초록색입니다.
-
 {% embed url="https://drive.google.com/file/d/1zIxeH3qztjmjfqj7XeYTaAsv1ie1TaWQ/view?usp=sharing" %}
 
 #### 👽  이전버전
