@@ -14,13 +14,11 @@ icon: arrow-down-from-bracket
 
 비트블록 보드의 Matrix LED(5x5)는 초록색입니다.
 
-{% embed url="https://drive.google.com/file/d/1PCxPolpuRhyNhN43VvgCzVT8nkM-o8Ao/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1zIxeH3qztjmjfqj7XeYTaAsv1ie1TaWQ/view?usp=sharing" %}
 
 #### 👽  이전버전
 
-비트블록 보드의 Matrix LED(5x5)는  보라색입니다.
-
-{% embed url="https://drive.google.com/file/d/1DcAhohxXz2VAkR3qzWRVeaLKgt7fkhcM/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1PCxPolpuRhyNhN43VvgCzVT8nkM-o8Ao/view?usp=sharing" %}
 
 ### 펌웨어 업로드&#x20;
 
