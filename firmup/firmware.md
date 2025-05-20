@@ -7,7 +7,7 @@ icon: rectangle-history
 ## 비트블록&#x20;
 
 * BLE 용
-* COM 포트&#x20;
+* COM 포트  (카미봇 동글을 사용하여 비트블록과 연결하는 경우)
 
 ### 코코보드
 
