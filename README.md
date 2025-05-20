@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ☘️ 완벽 가이드!
+# ☘️ 비트블록 완벽 가이드!
 
 모야랩(moyalab)은 인공지능 관련 교육 콘텐츠를 개발하는 ICT 교육 콘텐츠 기업입니다.
 

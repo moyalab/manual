@@ -30,9 +30,9 @@ icon: arrow-down-from-bracket
 
 최신 버전의 업로더 프로그램을    실행합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/2025-02-15 18 25 55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/firmup_01 (1).png" alt=""><figcaption></figcaption></figure>
 
-\[비트블록보드] 를  선택합니다.
+업로드하는  펌웨어를 선택합니다. Bitblock 보드는  **업로드 모드** 로 설정되어 있어야 합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/firmup_03.png" alt=""><figcaption><p>COM포트 선택</p></figcaption></figure>
 
