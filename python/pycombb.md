@@ -21,9 +21,9 @@ pip install pycombb
 from bitblock import *
 
 # 카미봇동글이 꽂혀있는 COM포트 번호 
-port = ''cㅊ 
+port = 'COM8'
 
-board = Bitblock(address)
+board = Bitblock(port)
 ret = board.connect()
 
 rccar = board.rccar_init()
