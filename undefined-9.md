@@ -33,3 +33,34 @@ def loop():
 if __name__ == '__main__':
     run()
 ```
+
+
+
+### 2. Perlin 노이즈&#x20;
+
+랜덤과 다른 노이즈를 생성하는 알고리즘인 Perlin을 이용하는 예제이다.
+
+```python
+from helloai import *
+
+win = Window('helloAI')
+xoff = 0
+yoff = 0
+
+def loop():
+    global xoff, yoff
+    
+    win.background(Color.BACKGROUND)
+    
+    xn = noise(xoff) * win.width
+    yn = noise(yoff) * win.height
+    
+    win.ellipse((xn, yn), 24, 24, Color.BLACK)
+    win.show()
+    xoff += 0.02
+    yoff += 0.04
+    
+
+if __name__ == '__main__':
+    run()
+```
