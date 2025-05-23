@@ -46,7 +46,7 @@
 
 ## 🖐️ HelloAI
 
-* [🌱설명](helloai/ex.md)
+* [🌱HelloAI 설명](helloai/ex.md)
 * [🌱환경 설정](helloai/env.md)
 
 ***
