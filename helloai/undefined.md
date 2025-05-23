@@ -20,14 +20,17 @@ conda activate <가상환경 이름>
 <가상환경 이름>에는 적당한 이름을 사용하면 됩니다.  예를 helloai 라는 이름을 사용한다면,
 
 ```
-conda create -n peylconda create -n <가상환경 이름> python=3.11
-conda activate <가상환경 이름>thon=3.11
-conda activate <가상환경 이름>
+conda create -n helloai python=3.11
+conda activate helloai
 ```
 
+가상 환경이    활성화된 상태에서 파이썬의   버전을 확인합니다.
 
+```
+python --version
+```
 
-HelloAI 팩키지를 설치합니다.
+파이썬 버전이 3.11 인것을 확인하고, HelloAI 팩키지를 설치합니다.
 
 ```
 pip install helloai
