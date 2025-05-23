@@ -1,4 +1,8 @@
-# 인체 검출
+# 🙋인체 검출
+
+###
+
+<figure><img src=".gitbook/assets/h_pose_title.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. 코드 작성&#x20;
 

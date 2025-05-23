@@ -1,4 +1,8 @@
-# 얼굴 검출
+# 👦얼굴 검출
+
+###
+
+<figure><img src=".gitbook/assets/h_face_title.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. 코드 작성
 
