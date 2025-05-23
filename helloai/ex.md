@@ -20,7 +20,7 @@ layout:
 
 HelloAI는 파이썬 언어로 인공지능 기능을 간단한  코딩으로 체험할 수 있도록 만들어진 교육용팩키지 입니다.&#x20;
 
-ㅇ
+아래 링크를 통해서 확인하세요.
 
 {% content-ref url="env.md" %}
 [env.md](env.md)
