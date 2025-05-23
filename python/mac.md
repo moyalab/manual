@@ -1,9 +1,8 @@
 ---
 description: 비트블록용 파이썬 라이브러리
-icon: python
 ---
 
-# MAC 확인방법
+# 🤖 MAC 주소 확인
 
 ### MAC 주소 확인
 

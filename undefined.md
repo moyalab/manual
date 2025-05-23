@@ -1,44 +1,36 @@
-# 기본 기능
+# 동영상
 
-PC에 연결된 카메라의 영상을 받아서 화면에 표시하는 기능을 작성합니다.
-
-### 1. 코드작성
+### 1. 동영상 파일 읽어서 표시
 
 ```python
-# HelloAI의 모든 기능을 임포트한다.
 from helloai import *
+import os 
 
-# 카메라 영상을 표시하기 위한 윈도우를 생성한다.  
-# 'wnd'는 윈도우의 이름으로 영문자만 사용해야 한다.
-wnd = Window('wnd')
+win = Window('hello-AI')
 
-# 카메라 객체를 만든다.
-camera = Camera()
+video_path = "C:\\Users\\user\\Downloads\\videos\\video.mp4"
+video_reader = VideoReader(video_path)
 
-# 무한 루프 
+# 비디오 정보 출력
+info = video_reader.get_info()
+print("Video Info:", info)
+
 def loop():
-    # 카메라에서 이미지 읽어오기 
-    img = camera.read()
-    
-    # 이미지를 윈도우에 표시 
-    wnd.show(img)
+    # 동영상에서 프레임 한개 읽음
+    frame = video_reader.read()
 
-# --------------------------------------------------------------------------
-# HelloAI 를 사용하는 코드는 반드시 아랫부분을 포함해야 실행된다. 
-# -------------------------------------------------------------------------
+    # 동영상이 끝까지 재생
+    if video_reader.end_:
+        stop()    # 프로그램 종료 
+
+    win.show(frame)
+
+# 프로그램이 끝날때 최종적으로 실행되는 함수 
+def end():
+    # 동영상의 최종 마무리를 위해서 반드시 필요 
+    video_reader.release()
+
+# ----------------------------------------
 if __name__ == '__main__':
     run()
 ```
-
-코드 실행에는 약간의 시간이 필요하며,  카메라의 영상이 화면에 표시된다.
-
-
-
-### 2. 종료
-
-HelloAI를 종료하는 가장 좋은 방법은 카메라가 표시되는 화면을 한번 클릭한 후,  키보드의 Esc 키를 누르면 된다.  다만 내부적으로 안전하게 종료되는데 까지  약간의 시간이 걸린다.
-
-
-
-또는 코드를 실행한 터미널 창에서 Control + C 키를 눌러서 종료하는 방법도 있다.
-

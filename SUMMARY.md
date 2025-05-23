@@ -25,11 +25,11 @@
 * [다운로드](firmup/firmup_download.md)
 * [펌웨어 종류](firmup/firmware.md)
 
-## 파이썬::python
+## 🐍 파이썬::python
 
-* [pyblebb](python/python_download.md)
-* [pycombb](python/pycombb.md)
-* [MAC 주소 확인](python/mac.md)
+* [👽 pyblebb](python/python_download.md)
+* [👓 pycombb](python/pycombb.md)
+* [🤖 MAC 주소 확인](python/mac.md)
 
 ## 제품 설명 <a href="#products" id="products"></a>
 
@@ -42,18 +42,18 @@
 
 ## 🖐️ HelloAI
 
-* [🌱설명](helloai/undefined.md)
-* [🌱환경 설정](helloai/undefined-1.md)
+* [🌱설명](helloai/ex.md)
+* [🌱환경 설정](helloai/env.md)
 
 ***
 
-* [🖱️기본 기능](undefined.md)
-* [🖐️손검출](undefined-1.md)
-* [🙋인체 검출](undefined-2.md)
-* [👦얼굴 검출](undefined-3.md)
-* [사진, 데이터 저장](undefined-4.md)
-* [🖌️그리기 기능](undefined-5.md)
-* [🖌️연속 그리기](undefined-6.md)
-* [📆글자 인식](undefined-7.md)
-* [🎞️동영상](undefined-8.md)
-* [🐳기타 기능](undefined-9.md)
+* [🖱️기본 기능](basic.md)
+* [🖐️손검출](hand.md)
+* [🙋인체 검출](pose.md)
+* [👦얼굴 검출](face.md)
+* [사진, 데이터 저장](image.md)
+* [🖌️그리기 기능](draw.md)
+* [🖌️연속 그리기](draw2.md)
+* [📆글자 인식](text.md)
+* [🎞️동영상](undefined.md)
+* [🐳기타 기능](etc.md)

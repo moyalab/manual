@@ -1,9 +1,8 @@
 ---
 description: 카미봇 동글을 사용해서 보드와 연결하는 경우에 사용하는 비트블록 파이썬 라이브러리
-icon: python
 ---
 
-# pycombb
+# 👓 pycombb
 
 ### 설치
 
