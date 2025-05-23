@@ -14,9 +14,11 @@ HelloAI 파이썬 라이브러리는 파이썬 버전 3.10과 **3.11.x**을 지�
 
 {% embed url="https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html" %}
 
-아나콘다에   비해서 기본 기능만 설치되는 **Miniconda의 설치**를 권합니다.  윈도우즈 PC의 경우 아래 링크를 클릭하면 Miniconda 설치 파일이 다운로드 됩니다.
+아나콘다에   비해서 기본 기능만 설치되는 **Miniconda의 설치**를 권합니다.  윈도우즈 PC의 경우 아래 링크를 클릭하면 Miniconda 설치 파일이 다운로드 됩니다.  py312 버전으로 설치합니다.
 
-{% embed url="https://repo.anaconda.com/miniconda/Miniconda3-py311_25.3.1-1-Windows-x86_64.exe" %}
+{% embed url="https://repo.anaconda.com/miniconda/Miniconda3-py312_25.3.1-1-Windows-x86_64.exe" %}
+
+
 
 Miniconda를 설치한 후,   터미널에서 아래 명령으로 파이썬 3.11의 가상 환경을 만들고 활성화 시킬 수 있습니다. &#x20;
 
