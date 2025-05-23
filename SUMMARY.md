@@ -40,19 +40,20 @@
 
 * [연수 자료](doc/doc.md)
 
-## HelloAI
+## 🖐️ HelloAI
 
-* [환경 설정](helloai/undefined.md)
+* [🌱설명](helloai/undefined.md)
+* [🌱환경 설정](helloai/undefined-1.md)
 
 ***
 
-* [기본 기능](undefined.md)
-* [손검출](undefined-1.md)
-* [인체 검출](undefined-2.md)
-* [얼굴 검출](undefined-3.md)
+* [🖱️기본 기능](undefined.md)
+* [🖐️손검출](undefined-1.md)
+* [🙋인체 검출](undefined-2.md)
+* [👦얼굴 검출](undefined-3.md)
 * [사진, 데이터 저장](undefined-4.md)
-* [그리기 기능](undefined-5.md)
-* [연속 그리기](undefined-6.md)
-* [글자 인식](undefined-7.md)
-* [동영상](undefined-8.md)
-* [기타 기능](undefined-9.md)
+* [🖌️그리기 기능](undefined-5.md)
+* [🖌️연속 그리기](undefined-6.md)
+* [📆글자 인식](undefined-7.md)
+* [🎞️동영상](undefined-8.md)
+* [🐳기타 기능](undefined-9.md)
