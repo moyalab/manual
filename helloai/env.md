@@ -20,20 +20,20 @@ HelloAI 파이썬 라이브러리는 파이썬 버전 3.10과 **3.11.x**을 지�
 
 설치 후,  윈도우즈의 PowerShell 환경에서사용한다면,   터미널에서 아래 명령을 실행합니다.
 
-```
+```powershell
 conda init powershell
 ```
 
 Powershell환경에서 실행   정책 관련 에러가 발생한다면,&#x20;
 
-```
+```powershell
 # 현재 실행 정책 확인
 Get-ExecutionPolicy
 ```
 
 실행 정책을변경해야한다면,    Powershell을관리자 권한으로 실행한 후, 아래 명령을 실행한다.
 
-```
+```powershell
 # 만약 Restricted라면 관리자 권한으로 PowerShell을 열고:
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
@@ -43,8 +43,6 @@ Powershell을 닫고, 다시 일반 사용자로 Powershell을 실행한 후,  �
 ```
 conda init powershell
 ```
-
-
 
 
 
