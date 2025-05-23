@@ -39,3 +39,7 @@
 ## 참고자료 <a href="#doc" id="doc"></a>
 
 * [연수 자료](doc/doc.md)
+
+## HelloAI
+
+* [환경 설정](helloai/undefined.md)
