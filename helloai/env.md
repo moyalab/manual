@@ -18,6 +18,34 @@ HelloAI 파이썬 라이브러리는 파이썬 버전 3.10과 **3.11.x**을 지�
 
 {% embed url="https://repo.anaconda.com/miniconda/Miniconda3-py312_25.3.1-1-Windows-x86_64.exe" %}
 
+설치 후,  윈도우즈의 PowerShell 환경에서사용한다면,   터미널에서 아래 명령을 실행합니다.
+
+```
+conda init powershell
+```
+
+Powershell환경에서 실행   정책 관련 에러가 발생한다면,&#x20;
+
+```
+# 현재 실행 정책 확인
+Get-ExecutionPolicy
+```
+
+실행 정책을변경해야한다면,    Powershell을관리자 권한으로 실행한 후, 아래 명령을 실행한다.
+
+```
+# 만약 Restricted라면 관리자 권한으로 PowerShell을 열고:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+Powershell을 닫고, 다시 일반 사용자로 Powershell을 실행한 후,  아래 명령을 실행한다.
+
+```
+conda init powershell
+```
+
+
+
 
 
 Miniconda를 설치한 후,   터미널에서 아래 명령으로 파이썬 3.11의 가상 환경을 만들고 활성화 시킬 수 있습니다. &#x20;
