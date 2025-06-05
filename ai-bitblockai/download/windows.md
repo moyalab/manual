@@ -10,13 +10,13 @@ description: BitblockAI 윈도우 버전 다운로드 페이지
 
 #### 🔥 최신 버전
 
-{% embed url="https://drive.google.com/file/d/1u8v9HKr-7obP6h3ba8XuH3woD9oK30ZK/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1zIxeH3qztjmjfqj7XeYTaAsv1ie1TaWQ/view?usp=sharing" %}
 
 🌾 이전 버전
 
-{% embed url="https://drive.google.com/file/d/1ic7lsW5P9FPdjkT60AveSo0yBVn_5hQb/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1u8v9HKr-7obP6h3ba8XuH3woD9oK30ZK/view?usp=sharing" %}
 
-{% embed url="https://drive.google.com/file/d/1o9F6DFZnnGoxShe3iVHmXe1U-fAvcrsQ/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1ic7lsW5P9FPdjkT60AveSo0yBVn_5hQb/view?usp=sharing" %}
 
 ### 👽 **스크래치 링크**
 
