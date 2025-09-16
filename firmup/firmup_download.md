@@ -12,11 +12,11 @@ icon: arrow-down-from-bracket
 
 #### 🔥 최신 버전&#x20;
 
-{% embed url="https://drive.google.com/file/d/1D4LrBxpHYQAP5-155xUHRZfOFCcRkgC_/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1KLZkMjMLiMIAAYqP0HnyLBle2N2kH6B-/view?usp=sharing" %}
 
 #### 👽  이전 버전
 
-{% embed url="https://drive.google.com/file/d/1zIxeH3qztjmjfqj7XeYTaAsv1ie1TaWQ/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1D4LrBxpHYQAP5-155xUHRZfOFCcRkgC_/view?usp=sharing" %}
 
 ### 펌웨어 업로드&#x20;
 
